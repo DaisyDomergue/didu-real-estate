@@ -1,4 +1,4 @@
-baseURL = 'https://daisydomergue.github.io/didu-real-estate/'
+baseURL = 'https://daisydomergue.github.io/'
 languageCode = 'en-us'
 title = 'DIDU Real Estate'
 theme = "daiz"
