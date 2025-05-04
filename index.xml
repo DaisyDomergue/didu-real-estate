@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DIDU Real Estate</title><link>https://didurealestate.com/</link><description>Recent content on DIDU Real Estate</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://didurealestate.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact Us</title><link>https://didurealestate.com/contact-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://didurealestate.com/contact-us/</guid><description>&lt;div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/61cda6dcf209bc9c956de21c30ac45d8?embedded=1">&lt;/div>
+
+&lt;script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js">&lt;/script>
+&lt;script type="text/javascript" src="https://cdn.formkeep.com/formkeep-embed.js">&lt;/script>
+
+
+&lt;script>
+const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+ console.log('Submitting form...')
+})
+
+formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+ console.log('Submitted form...')
+})
+&lt;/script></description></item><item><title>Cozy Family Home</title><link>https://didurealestate.com/houses/house1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://didurealestate.com/houses/house1/</guid><description>&lt;p>This cozy family home features 3 bedrooms, 2 bathrooms, a spacious living room, and a modern kitchen. The backyard is perfect for family gatherings, and the neighborhood is known for its excellent schools and parks.&lt;/p></description></item><item><title>Luxury Villa</title><link>https://didurealestate.com/houses/house3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://didurealestate.com/houses/house3/</guid><description>&lt;p>Experience luxury living in this stunning 5-bedroom villa. It features a private pool, a beautifully landscaped garden, and spacious interiors with high-end finishes. Perfect for those seeking elegance and comfort.&lt;/p></description></item><item><title>Modern Apartment</title><link>https://didurealestate.com/houses/house2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://didurealestate.com/houses/house2/</guid><description>&lt;p>This modern apartment offers 2 bedrooms, 1 bathroom, and an open-concept living area with stunning city views. Located in the heart of downtown, it provides easy access to shopping, dining, and entertainment.&lt;/p></description></item></channel></rss>
