@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/</loc>
+    <loc>http://localhost:45963/about/</loc>
     <lastmod>2025-05-04T15:22:11+03:00</lastmod>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/categories/</loc>
+    <loc>http://localhost:45963/</loc>
+    <lastmod>2025-05-04T15:22:11+03:00</lastmod>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/contact-us/</loc>
+    <loc>http://localhost:45963/categories/</loc>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/houses/house1/</loc>
+    <loc>http://localhost:45963/contact-us/</loc>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/houses/</loc>
+    <loc>http://localhost:45963/houses/house1/</loc>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/houses/house3/</loc>
+    <loc>http://localhost:45963/houses/</loc>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/houses/house2/</loc>
+    <loc>http://localhost:45963/houses/house3/</loc>
   </url><url>
-    <loc>https://daisydomergue.github.io/didu-real-estate/tags/</loc>
+    <loc>http://localhost:45963/houses/house2/</loc>
+  </url><url>
+    <loc>http://localhost:45963/tags/</loc>
   </url>
 </urlset>
