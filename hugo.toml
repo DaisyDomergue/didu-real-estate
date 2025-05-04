@@ -1,0 +1,30 @@
+baseURL = 'https://didurealestate.com/'
+languageCode = 'en-us'
+title = 'DIDU Real Estate'
+theme = "daiz"
+relativeURLS = true
+
+[module]
+[[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+[menus]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Contact Us"
+        url = "/contact-us/"
+        weight = 2
+
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 3
+
+    [[menu.main]]
+        name = "Properties"
+        url = "/houses/"
+        weight = 4
