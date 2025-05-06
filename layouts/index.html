@@ -21,8 +21,13 @@
             <span class="visually-hidden">Next</span>
         </button>
         <div class="carousel-caption d-sm-block d-md-block">
-            <h1 class="text-white" style="text-shadow: 2px 2px 0 black, -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black;">Find Your Dream Home</h1>
-            <a href="tel:+12048983994" class="btn btn-warning btn-lg mt-3">Call Us Now</a>
+            <h1 class="caption text-white">
+                Sell Your Home Fast & Hassle-Free!
+            </h1>
+            <p class="lead text-white" style="text-shadow: 1px 1px 0 black;">
+                One Viewing. Cash Offer in 48 Hours. No Realtor Fees.
+            </p>
+            <a href="tel:+12048983994" class="calltoaction btn btn-warning btn-lg mt-3">Call Us Now</a>
         </div>
     </div>
 </div>
@@ -36,15 +41,22 @@
     transform: scale(1.1);
 }
 </style>
-<div class="bg-secondar text-primary py-3">
+<div class="midsection bg-secondary text-primary py-3">
     <h2 class="display-4 text-center m-0">We Buy Houses</h2>
-    <h2 class="display-4 text-center m-0"> Any Situation, Any Condition  </h2>
+    <h3 class="text-center mt-3">Any Situation. Any Condition.</h3>
+    <p class="text-center mt-3">
+        Whether you're <strong>divorced</strong>, facing <strong>foreclosure</strong>, dealing with an <strong>inheritance</strong>, <strong>moving for a job</strong>, or <strong>upgrading</strong> to a new home, we are here to help. 
+        Get a fair cash offer for your house today—no repairs, no fees, no hassle.
+    </p>
+    <div class="text-center mt-4">
+        <a href="/contact-us" class="btn btn-warning btn-lg">Get Your Cash Offer Now</a>
+    </div>
 </div>
 <div class="row mt-3 text-white text-center justify-content-center align-items-center">
     {{ range .Site.RegularPages }}
     {{ if eq .Section "houses" }}
     <div class="col-md-4 d-flex align-items-stretch justify-content-center align-items-center zoom-effect">
-        <div class="card bg-secondary text-dark mb-3 shadow">
+        <div class="card bg-secondary text-dark mb-3">
             <div class="card-img-top" style="height: 200px; width: 100%; overflow: hidden;">
                 <img src="{{ .Params.image }}" alt="{{ .Title }}" style="height: 100%; width: 100%; object-fit: cover;">
             </div>
