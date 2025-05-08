@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DIDU Real Estate</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on DIDU Real Estate</description>
+    <title>Old_houses on DIDU Real Estate</title>
+    <link>http://localhost:1313/old_houses/</link>
+    <description>Recent content in Old_houses on DIDU Real Estate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 May 2025 15:22:11 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 04 May 2025 15:22:11 +0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact Us</title>
-      <link>http://localhost:1313/contact-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact-us/</guid>
-      <description>&lt;div id=&#34;formkeep-embed&#34; data-formkeep-url=&#34;https://formkeep.com/p/61cda6dcf209bc9c956de21c30ac45d8?embedded=1&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;https://pym.nprapps.org/pym.v1.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script type=&#34;text/javascript&#34; src=&#34;https://cdn.formkeep.com/formkeep-embed.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;&#xA;&lt;script&gt;&#xA;const formkeepEmbed = document.querySelector(&#39;#formkeep-embed&#39;)&#xA;&#xA;formkeepEmbed.addEventListener(&#39;formkeep-embed:submitting&#39;, _event =&gt; {&#xA;  console.log(&#39;Submitting form...&#39;)&#xA;})&#xA;&#xA;formkeepEmbed.addEventListener(&#39;formkeep-embed:submitted&#39;, _event =&gt; {&#xA;  console.log(&#39;Submitted form...&#39;)&#xA;})&#xA;&lt;/script&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/old_houses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cozy Family Home</title>
       <link>http://localhost:1313/old_houses/house1/</link>

@@ -3,10 +3,8 @@
 <meta name="viewport" content="width=device-width">
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-{{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
 <meta name="description"
-    content="Website meta description for google search results go here" />
+content="Website meta description for google search results go here" />
 <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
 <meta name="theme-color" content="#1A94D2" />
 
@@ -14,6 +12,8 @@
 
 {{ $style := resources.Get "sass/main.scss" | toCSS  $options | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/js.html" . }}
 
 <!-- 
     include a favicon for your site if you have it, else omit the line below 

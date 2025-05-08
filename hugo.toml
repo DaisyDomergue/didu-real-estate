@@ -23,8 +23,3 @@ relativeURLS = true
         name = "About"
         url = "/about/"
         weight = 3
-
-    [[menu.main]]
-        name = "Properties"
-        url = "/houses/"
-        weight = 4

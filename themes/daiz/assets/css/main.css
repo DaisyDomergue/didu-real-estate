@@ -53,17 +53,35 @@ a {
   background-size: 400% 400%;
   animation: gradientAnimation 3s ease infinite;
 }
+.midsection h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 5px black;
+}
+.midsection h3 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-shadow: 2px 2px 0 black;
+}
+.midsection p{
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
 .calltoaction {
   box-shadow: 0 8px 15px rgba(0,0,0,.85);
 }
 .lead {
-  /* font-size: 1.25rem;
-  font-weight: 300;
-  line-height: 1.5; */
-  text-shadow: 2px 2px 0 black;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-shadow: 2px 2px 10px black;
 }
 .caption {
-  text-shadow: 2px 2px 0 black;
+  font-size: 3rem;
+  font-weight: 700;
+  text-shadow: 4px 4px 12px black;
 }
 .carousel {
   box-shadow: 0 8px 15px rgba(0,0,0,.85);
