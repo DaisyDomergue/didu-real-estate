@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'DIDU Real Estate'
+title = 'Lielu Real Estate'
 
 [menus]
   [[menus.main]]

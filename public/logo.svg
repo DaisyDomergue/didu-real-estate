@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1158 1198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Artboard1" transform="matrix(1,0,0,1,-1204.79,-597.75)">
-        <rect x="1204.79" y="597.75" width="1157.92" height="1197.39" style="fill:none;"/>
-        <g transform="matrix(0.865529,0,0,0.865529,-145.384,211.052)">
-            <path d="M1779.17,1602.27L1779.17,1573.38L2244.73,1573.38C2485.73,1573.38 2681.39,1377.72 2681.39,1136.71C2681.39,895.71 2485.73,700.046 2244.73,700.046L1808.06,700.046L1808.06,1378.01L1625.29,1378.58L1625.29,517.278L2244.73,517.278C2586.6,517.278 2864.16,794.838 2864.16,1136.71C2864.16,1478.59 2586.6,1756.15 2244.73,1756.15L1625.29,1756.15L1625.29,1574.04L1779.05,1573.38L1779.11,1602.27L1779.17,1602.27Z"/>
+<svg width="100%" height="100%" viewBox="0 0 3508 2481" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,151.402,205.053)">
+        <g transform="matrix(646.524,0,0,646.524,2200.55,1340.35)">
         </g>
-        <g transform="matrix(0.976226,0,0,0.715288,817.48,360.64)">
-            <path d="M1188.81,1458.4L455.861,1458.4L455.861,1260.71L784.585,1260.71L784.585,998.48L986.699,722.634L1188.81,998.48L1188.81,1458.4ZM929.701,1260.35L1043.7,1260.35L1043.7,1080.52L986.699,1002.73L929.701,1080.52L929.701,1260.35Z"/>
+        <text x="901.19px" y="1340.35px" style="font-family:'Bauhaus93', 'Bauhaus 93', fantasy;font-size:646.524px;">Lielu</text>
+    </g>
+    <g transform="matrix(0.689761,-0.689652,0.707051,0.707163,463.438,897.744)">
+        <rect x="634.01" y="714.705" width="712.478" height="111.325" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(0.995979,0.994905,-0.706725,0.707488,1773.42,-661.876)">
+        <rect x="634.01" y="714.705" width="712.478" height="111.325" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-30.7683,-55.9273)">
+        <rect x="1806.7" y="870.849" width="115.778" height="115.778" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,105.048,-55.9273)">
+        <rect x="1806.7" y="870.849" width="115.778" height="115.778" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-30.7683,83.2537)">
+        <rect x="1806.7" y="870.849" width="115.778" height="115.778" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,105.048,83.2537)">
+        <rect x="1806.7" y="870.849" width="115.778" height="115.778" style="fill:rgb(220,185,39);"/>
+    </g>
+    <g transform="matrix(0.390508,0,0,0.390508,645.354,1115.86)">
+        <g transform="matrix(646.524,0,0,646.524,4295.35,1692.43)">
         </g>
+        <text x="1103.13px" y="1692.43px" style="font-family:'Bauhaus93', 'Bauhaus 93', fantasy;font-size:646.524px;fill:rgb(220,185,39);">Real Estate</text>
+    </g>
+    <g transform="matrix(1.21254,0,0,1.08511,-299.65,-48.6093)">
+        <rect x="1553.93" y="568.046" width="115.233" height="209.29" style="fill:rgb(220,185,39);"/>
     </g>
 </svg>

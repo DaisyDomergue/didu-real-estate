@@ -1,6 +1,6 @@
 baseURL = 'https://daisydomergue.github.io/'
 languageCode = 'en-us'
-title = 'DIDU Real Estate'
+title = 'Lielu Real Estate'
 theme = "daiz"
 relativeURLS = true
 
